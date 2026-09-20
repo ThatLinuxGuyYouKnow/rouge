@@ -1,0 +1,18 @@
+# Video + submission artifacts (large binaries, generated per-submission docs)
+videos/
+devpost.md
+*.mp4
+*.mov
+*.webm
+
+# Generated scan outputs
+rouge_reports/
+rouge_logs/
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
